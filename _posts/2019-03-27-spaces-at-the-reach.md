@@ -1,0 +1,184 @@
+---
+ID: 612
+post_title: Spaces at the REACH
+author: Michael Cardiel
+post_excerpt: ""
+layout: post
+permalink: >
+  https://reach.kennedy-center.org/spaces-at-the-reach/
+published: true
+post_date: 2019-03-27 22:33:27
+---
+<!-- wp:paragraph -->
+<p>
+
+
+
+
+
+
+
+
+The
+REACH is a place where visitors, audiences and artists can come together for
+collaboration, experimentation, and exploration in the spirit of President
+Kennedy’s vision for a new frontier for the arts. Many of the spaces have been
+named after historical and personal moments in his life as an expression of our
+role as his living memorial.
+
+
+
+</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:media-text {"mediaId":602,"mediaType":"image","isStackedOnMobile":true,"className":"media-card"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile media-card"><figure class="wp-block-media-text__media"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/03/spaces__0000_welcome_pavilion.jpg" alt="" class="wp-image-602"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":3} -->
+<h3> <br>Welcome Pavilion </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Welcome Pavilion is the main entry to all other spaces at the REACH. Located on Level A, the Welcome Pavilion boasts massive clear and frosted glass windows, including one that is etched with a quote from President Kennedy. The expansive lobby is home to a reception desk, comfortable lounges designed by Steven Holl, the Gratitude Wall recognizing major contributions to the construction of the REACH, and the Hyannis Port Coffee Bar, which is named after the location of the Kennedy Family home on Cape Cod.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:media-text {"mediaPosition":"right","mediaId":603,"mediaType":"image","isStackedOnMobile":true,"className":"media-card"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile media-card"><figure class="wp-block-media-text__media"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/03/spaces__0001_room_pt109.jpg" alt="" class="wp-image-603"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":3} -->
+<h3> <br>Room PT109</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Taking its name from the “Patrol Torpedo” boat that President Kennedy commanded during World War II, Room PT 109 is a flexible space for meetings or dinners with large windows that look out onto the outdoor Victura Deck and a large reflecting pool.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:media-text {"mediaId":604,"mediaType":"image","isStackedOnMobile":true,"className":"media-card"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile media-card"><figure class="wp-block-media-text__media"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/03/spaces__0002_moonshot_studio.jpg" alt="" class="wp-image-604"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":3} -->
+<h3> <br>Moonshot Studio</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Named after President Kennedy’s call for America to think big and travel to the moon, the Moonshot Studio is a “Maker Space” where families, students, and community groups can come together for interactive workshops, meetings, or camps.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:media-text {"mediaPosition":"right","mediaId":605,"mediaType":"image","isStackedOnMobile":true,"className":"media-card"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile media-card"><figure class="wp-block-media-text__media"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/03/spaces__0003_justice_forum.jpg" alt="" class="wp-image-605"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":3} -->
+<h3> <br>Justice Forum</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A striking and intimate lecture hall with fixed seating named after one of the five ideals attributed to President Kennedy, the Justice Forum is perfect for pre- or post-performance lectures, film screenings, and artist discussions. It boasts distinctive acoustic “crinkle” concrete walls and a cherry wood ceiling.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:media-text {"mediaId":606,"mediaType":"image","isStackedOnMobile":true,"className":"media-card"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile media-card"><figure class="wp-block-media-text__media"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/03/spaces__0004_skylight_pavilion.jpg" alt="" class="wp-image-606"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":3} -->
+<h3> <br>Skylight Pavilion </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The stunningly beautiful Skylight Pavilion features vaulted ceilings over an expansive atrium space with multiple glass skylights and very large glass windows providing views of the Potomac River. A multitude of custom hanging lights twinkle like stars over the Pavilion’s atrium, augmented by theatrical lighting to transform the room for special events. The exterior wall facing the Center functions as a large projection screen for movies, simulcasts, and more.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:media-text {"mediaPosition":"right","mediaId":607,"mediaType":"image","isStackedOnMobile":true,"className":"media-card"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile media-card"><figure class="wp-block-media-text__media"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/03/spaces__0005_peace_corps.jpg" alt="" class="wp-image-607"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":3} -->
+<h3> <br>Peace Corps Gallery  </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>President Kennedy established the Peace Corps by executive order on March 1, 1961 with the goal of encouraging mutual understanding between Americans and people of other nations and cultures. The Peace Corps Gallery, located on Level B, serves as a lobby and gathering space outside of Studios J, F &amp; K.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:media-text {"mediaId":608,"mediaType":"image","isStackedOnMobile":true,"className":"media-card"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile media-card"><figure class="wp-block-media-text__media"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/03/spaces__0006_studios_jfk.jpg" alt="" class="wp-image-608"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":3} -->
+<h3> <br>Studios J, F &amp; K   </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>These multi-purpose rooms take their name from the initials of the President’s name, John Fitzgerald Kennedy. Studios J &amp; F are equipped with ballet barres, mirrors, and a ballet-style sprung floor. They have floor-to-ceiling windows looking onto the Potomac River through which visitors outside on the Link pathway can observe rehearsals. Studio K is the biggest of the three, just larger than the Center’s Opera House stage, and features a balcony to observe artists at work as well as performances. The space with acoustic “crinkle” concrete walls will be the home of the Club at the Kennedy Center and is suitable for cabaret and other performances, rehearsals, exhibits, demonstrations, and special events.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:media-text {"mediaPosition":"right","mediaId":609,"mediaType":"image","isStackedOnMobile":true,"className":"media-card"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile media-card"><figure class="wp-block-media-text__media"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/03/spaces__0007_macaroni_sardar.jpg" alt="" class="wp-image-609"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":3} -->
+<h3> <br>Macaroni and Sardar Classrooms    </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Caroline Kennedy’s pet pony Macaroni was a gift from President Lyndon B. Johnson in 1962. Sardar, an Arabian horse, was given to First Lady Jacqueline Kennedy as a present from Ayub Khan, the President of Pakistan, in 1962. These state-of-the-art, multipurpose classroom spaces can host both children and adults in exciting hands-on educational activities.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:media-text {"mediaId":610,"mediaType":"image","isStackedOnMobile":true,"className":"media-card"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile media-card"><figure class="wp-block-media-text__media"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/03/spaces__0008_hammersmith_lounge.jpg" alt="" class="wp-image-610"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":3} -->
+<h3> <br>Hammersmith Lounge </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Hammersmith was the name of Jackie Beauvior’s childhood home that served as her wedding venue and the “Summer White House” during the Kennedy administration. Equipped with informal seating designed by Steven Holl, a skylight, and window views of the Potomac, the Hammersmith Lounge is a public space adjacent to Studios J, F &amp; K and the Macaroni and Sardar Classrooms.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:media-text {"mediaPosition":"right","mediaId":611,"mediaType":"image","isStackedOnMobile":true,"className":"media-card"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile media-card"><figure class="wp-block-media-text__media"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/03/spaces__0009_river_pavilion.jpg" alt="" class="wp-image-611"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":3} -->
+<h3> <br>River Pavilion </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Located at the southernmost end of the Kennedy Center campus, the River Pavilion is home to the River Café with fantastic views of the Potomac River and the Center’s new pedestrian bridge. Featuring quotes from President Kennedy etched into frosted glass, this special space is open for a coffee or snack and hosts informal performances, comedy or open mic nights, and special events. A glass wall slides open to a courtyard with a reflecting pool and outdoor deck with seating adjacent to the Presidential Grove of 35 ginkgo trees.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:media-text {"className":"list-narrow-nomedia"} -->
+<div class="wp-block-media-text alignwide list-narrow-nomedia"><figure class="wp-block-media-text__media"></figure><div class="wp-block-media-text__content"><!-- wp:heading {"align":"center","className":"padding-bottom-20"} -->
+<h2 style="text-align:center" class="padding-bottom-20"> Outdoor Spaces at the REACH </h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3>The Link</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Link is a covered pathway with fantastic views of the Potomac River, Roosevelt Island, and into Studios J &amp; F that connects the River Plaza and the Grand Foyer to various spaces and buildings at the REACH. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="mce_24">The Bridge</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For the first time, the Kennedy Center is connected to the city’s other memorials by a new pedestrian bridge spanning Rock Creek and Potomac Parkway down to the trail running along the Potomac River. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="mce_30">The Victura Deck</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A lover of the sea, President Kennedy’s iconic wooden sailboat, the Victura (Latin for “to conquer”), was purchased when he was 15. The Victura Deck is located just outside of the Moonshot Studio alongside a large reflecting pool. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="mce_36">The Presidential Grove</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p> At the south end of the campus sits a grove of 35 ginkgo trees planted in honor of our 35th president and namesake, John F. Kennedy, intended as a place for quiet contemplation. In addition, a large oak tree was planted nearby in homage to the “Arlington Oak” that shaded Kennedy’s grave at Arlington Cemetery. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>The REACH Plaza, Video Wall, and Upper and Lower Lawns </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The large paved plaza and two expansive lawns surrounding the three pavilions offer outdoor gathering spaces for participating in a community activity, watching a movie or simulcast on the Video Wall, picnicking, or relaxing before a performance. The lawns and landscaping serve as a massive “green roof” for the REACH, the largest in Washington, DC at approximately 69,000 square feet. </p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:columns {"columns":1} -->
+<div class="wp-block-columns has-1-columns"><!-- wp:column -->
+<div class="wp-block-column"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
