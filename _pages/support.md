@@ -1,7 +1,7 @@
 ---
 ID: 16
 post_title: Support
-author: Support Editor
+author: Christina Martin
 post_excerpt: ""
 layout: page
 permalink: >
@@ -9,9 +9,9 @@ permalink: >
 published: true
 post_date: 2018-11-13 14:32:27
 ---
-<div class="hero desktop"><img class="alignnone wp-image-346 size-full" src="http://reach.kennedy-center.org/wp-content/uploads/2019/02/Support_REACH_Banner1920-1.jpg" alt="" width="1929" height="467" /></div>
-<div class="hero tablet"><img class="https://cms.kennedy-center.org/reach-support/ alignnone wp-image-340 size-full" src="http://reach.kennedy-center.org/wp-content/uploads/2019/02/Support_REACH_Banner1250.jpg" alt="" width="1250" height="545" /></div>
-<div class="hero mobile"><img class="alignnone wp-image-341 size-full" src="http://reach.kennedy-center.org/wp-content/uploads/2019/02/Support_REACH_Banner900.jpg" alt="" width="900" height="560" /></div>
+<div class="hero desktop"><img class="alignnone wp-image-346 size-full" src="http://reach.kennedy-center.org/wp-content/uploads/2019/02/Support_REACH_Banner1920-1.jpg" alt="" width="1929" height="467"></div>
+<div class="hero tablet"><img class="https://cms.kennedy-center.org/reach-support/ alignnone wp-image-340 size-full" src="http://reach.kennedy-center.org/wp-content/uploads/2019/02/Support_REACH_Banner1250.jpg" alt="" width="1250" height="545"></div>
+<div class="hero mobile"><img class="alignnone wp-image-341 size-full" src="http://reach.kennedy-center.org/wp-content/uploads/2019/02/Support_REACH_Banner900.jpg" alt="" width="900" height="560"></div>
 <div class="intro">
 <div class="donate">
 <h4>Donate</h4>
@@ -124,7 +124,7 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
  	<li>The Honorable Bonnie McElveen-Hunter</li>
  	<li>Deanne A. Miller</li>
  	<li>The Honorable Mary V. Mochary</li>
- 	<li>Suzy and Bob Pence</li>
+ 	<li>Suzy and Bob&nbsp;Pence</li>
  	<li>The Rhimes Family Foundation</li>
  	<li>Drs. Helena Wachslicht Rodbard and David Rodbard</li>
  	<li>Mr. and Mrs. Robert M. Rosenthal</li>
@@ -225,7 +225,7 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
  	<li>The Lindley Family Foundation</li>
  	<li>Frances and Craig Lindner</li>
  	<li>Andrea S. Liss</li>
- 	<li>Andrés W. López  and Camelia M. Garrido</li>
+ 	<li>Andrés W. López &nbsp;and Camelia M. Garrido</li>
  	<li>Yili Lu and Thomas E. Pritchett</li>
 </ul>
 </div>
