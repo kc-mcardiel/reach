@@ -1,7 +1,7 @@
 ---
 ID: 16
 post_title: Support
-author: admin
+author: Support Editor
 post_excerpt: ""
 layout: page
 permalink: >
