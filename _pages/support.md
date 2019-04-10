@@ -48,7 +48,7 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
 <ul>
  	<li>David Bohnett Foundation</li>
  	<li>William E. and Joanne Conway</li>
- 	<li>Fred Eychaner &amp; Dan Whittaker</li>
+ 	<li>Fred Eychaner and Dan Whittaker</li>
  	<li>Sakurako and William Fisher</li>
  	<li>Natalie and Herb Kohler and Kohler Co.</li>
  	<li>Štĕpánka and Karel Komárek</li>
