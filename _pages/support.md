@@ -9,9 +9,9 @@ permalink: >
 published: true
 post_date: 2018-11-13 14:32:27
 ---
-<div class="hero desktop"><img class="alignnone wp-image-346 size-full" src="http://reach.kennedy-center.org/wp-content/uploads/2019/02/Support_REACH_Banner1920-1.jpg" alt="" width="1929" height="467"></div>
-<div class="hero tablet"><img class="https://cms.kennedy-center.org/reach-support/ alignnone wp-image-340 size-full" src="http://reach.kennedy-center.org/wp-content/uploads/2019/02/Support_REACH_Banner1250.jpg" alt="" width="1250" height="545"></div>
-<div class="hero mobile"><img class="alignnone wp-image-341 size-full" src="http://reach.kennedy-center.org/wp-content/uploads/2019/02/Support_REACH_Banner900.jpg" alt="" width="900" height="560"></div>
+<div class="hero desktop"><img class="alignnone wp-image-346 size-full" src="http://reach.kennedy-center.org/wp-content/uploads/2019/02/Support_REACH_Banner1920-1.jpg" alt="" width="1929" height="467" /></div>
+<div class="hero tablet"><img class="https://cms.kennedy-center.org/reach-support/ alignnone wp-image-340 size-full" src="http://reach.kennedy-center.org/wp-content/uploads/2019/02/Support_REACH_Banner1250.jpg" alt="" width="1250" height="545" /></div>
+<div class="hero mobile"><img class="alignnone wp-image-341 size-full" src="http://reach.kennedy-center.org/wp-content/uploads/2019/02/Support_REACH_Banner900.jpg" alt="" width="900" height="560" /></div>
 <div class="intro">
 <div class="donate">
 <h4>Donate</h4>
@@ -70,6 +70,7 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
 <ul>
  	<li>Altria Group</li>
  	<li>Adrienne Arsht</li>
+ 	<li>Booz Allen Hamilton</li>
  	<li>The Crown Goodman Family</li>
  	<li>Dick and Betsy DeVos Family Foundation</li>
  	<li>Daniel and Pamella DeVos Foundation</li>
@@ -82,9 +83,10 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
  	<li>Mr. Frank F. Islam and Ms. Debbie Driesman</li>
  	<li>Martha and Carl Lindner III and The Psalms Foundation</li>
  	<li>Frances and Craig Lindner</li>
+ 	<li>J. Willard and Alice S. Marriot Foundation</li>
  	<li>Pohlad Family Fund</li>
  	<li>Dr. Deborah Rose and Dr. Jan A. J. Stolwijk</li>
- 	<li>In Memory of Ali Slosburg</li>
+ 	<li>Martha and David Slosburg In Memory of Ali Slosburg</li>
  	<li>Eva and Marc Stern</li>
  	<li>The Embassy of the United Arab Emirates</li>
  	<li>Mr. Anthony and Mrs. Beatrice W. Welters Vincent Wilkinson Foundation</li>
@@ -96,6 +98,7 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
 <ul>
  	<li>Jim and Susan Bakke</li>
  	<li>HARMAN International Industries, Inc.</li>
+ 	<li>Jerry and Terri Kohl</li>
  	<li>Lane Industries, Inc.</li>
  	<li>Jeffrey and Harriet Legum</li>
  	<li>Dr. Gary Mather and Ms. Christina Co Mather</li>
@@ -110,6 +113,7 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
  	<li>The Honorable Stuart Bernstein and Wilma E. Bernstein</li>
  	<li>Buffy and William Cafritz</li>
  	<li>DC Commission on the Arts and Humanities</li>
+ 	<li>Nina and David Fialkow</li>
  	<li>Fluor Corporation</li>
  	<li>The Honorable Joseph and Alma Gildenhorn</li>
  	<li>John R. and Donna S. Hall</li>
@@ -122,15 +126,17 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
  	<li>Victoria McNeil Le Vine</li>
  	<li>Michael Lombardo and Sonny Ward</li>
  	<li>The Honorable Bonnie McElveen-Hunter</li>
+ 	<li>Carol Melton and Joseph Hassett</li>
  	<li>Deanne A. Miller</li>
  	<li>The Honorable Mary V. Mochary</li>
- 	<li>Suzy and Bob&nbsp;Pence</li>
+ 	<li>Suzy and Bob Pence</li>
  	<li>The Rhimes Family Foundation</li>
  	<li>Drs. Helena Wachslicht Rodbard and David Rodbard</li>
  	<li>Mr. and Mrs. Robert M. Rosenthal</li>
  	<li>Jeanne and Otto† Ruesch</li>
  	<li>The Stella Boyle Smith Trust, Catherine H. and Michael R. Mayton, Trustees</li>
  	<li>Lorenzo Rick Tedesco</li>
+ 	<li>The Trees Family</li>
  	<li>Melanie Walser and Bobby Ourisman</li>
  	<li>Nancy and Harold Zirkin</li>
 </ul>
@@ -225,7 +231,7 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
  	<li>The Lindley Family Foundation</li>
  	<li>Frances and Craig Lindner</li>
  	<li>Andrea S. Liss</li>
- 	<li>Andrés W. López &nbsp;and Camelia M. Garrido</li>
+ 	<li>Andrés W. López  and Camelia M. Garrido</li>
  	<li>Yili Lu and Thomas E. Pritchett</li>
 </ul>
 </div>
