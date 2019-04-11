@@ -149,7 +149,27 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
 <div class="donors more">
 <div class="donor-group">
 <div class="col left">
-<h4>Centennial Circle</h4>
+<h4>Centennial Circle Jubilee Members</h4>
+<ul>
+ 	<li>Tanaka Memorial Foundation</li>
+ 	<li>Alexandra Seros and Walter F. Ulloa</li>
+ 	<li>Mimi and Frank Walsh</li>
+ 	<li>Anthony and Beatrice W. Welters</li>
+</ul>
+<h4>Centennial Circle Distinguished Members</h4>
+<ul>
+ 	<li>AT&amp;T</li>
+ 	<li>Calvin and Janet Hill</li>
+ 	<li>Jim and Heather Johnson</li>
+ 	<li>Marie-Josée and Henry R. Kravis</li>
+ 	<li>Reginald Van Lee</li>
+ 	<li>Amalia Perea Mahoney and William Mahoney</li>
+ 	<li>Revada Foundation, courtesy of the estates of Reva and David Logan</li>
+ 	<li>Patricia Bennett Sagon</li>
+ 	<li>Alexandra C. Stanton</li>
+ 	<li>The Stichman Family Foundation</li>
+</ul>
+<h4>Centennial Circle Founding Members</h4>
 <ul>
  	<li>Mary Kinney Abercrombie</li>
  	<li>Debbie Alex and David Harris</li>
@@ -161,6 +181,7 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
  	<li>Dr. Bill Santford Ashley</li>
  	<li>Ms. Roswitha S. Augusta and Mr. Don Dittberner</li>
  	<li>The Honorable Elizabeth Frawley Bagley</li>
+ 	<li>Mary Randolph Ballinger</li>
  	<li>Diane Ballweg</li>
  	<li>Billie and Howard Barnett</li>
  	<li>Ilene R. Baylinson</li>
@@ -203,12 +224,11 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
  	<li>Shelly and Jack Hazel</li>
  	<li>Tom Healy and Fred P. Hochberg</li>
  	<li>Dana A. Hearn and Kevin J. McCloskey</li>
- 	<li>Calvin and Janet Hill</li>
  	<li>The Hillside Foundation – Shelley and Allan Holt</li>
  	<li>Mellody Hobson and George Lucas</li>
  	<li>Helen Jackson and Joseph Sassoon</li>
  	<li>Badr Jafar</li>
- 	<li>Jim and Heather Johnson</li>
+ 	<li>Muriel Jerome-O'Keeffe</li>
  	<li>Ralph and Jane Johnson</li>
  	<li>Richard and Margaret Johnston in Memory of Maxine Barrat</li>
  	<li>Shelly Kamins and Diane Sembler-Kamins</li>
@@ -219,7 +239,6 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
  	<li>Victoria Reggie Kennedy in Memory of Senator Edward M. Kennedy</li>
  	<li>Michele and Howard Kessler</li>
  	<li>Mr. and Mrs. John E. King</li>
- 	<li>Marie-Josée and Henry R. Kravis</li>
  	<li>Lori Laitman and Bruce Rosenblum</li>
  	<li>Bill and Marilyn Lane Family Foundation</li>
  	<li>Michael and Kim Lawrie</li>
@@ -237,7 +256,6 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
 </div>
 <div class="col right">
 <ul>
- 	<li>Amalia Perea Mahoney and William Mahoney</li>
  	<li>The Honorable Frederic and Marlene Malek</li>
  	<li>The J. Willard and Alice S. Marriott Foundation</li>
  	<li>Virginia Cretella Mars</li>
@@ -267,24 +285,21 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
  	<li>Paratus Group</li>
  	<li>R. Scott and Courtney Clarke Pastrick</li>
  	<li>Kristin and John Replogle</li>
- 	<li>Revada Foundation, courtesy of the estates of Reva and David Logan</li>
  	<li>Laura M. Ricketts</li>
  	<li>William and Donna Roberts</li>
  	<li>Drs. Helena Wachslicht Rodbard and David Rodbard</li>
  	<li>Jean E. Rolles</li>
  	<li>The Honorable Selwa Roosevelt</li>
- 	<li>George Andrew Rose</li>
+ 	<li>George Andrew Rose and The Rose Family</li>
  	<li>Barbara and Charles Rossotti</li>
  	<li>Patti and Rusty Rueff</li>
  	<li>Mark and Alison Russell</li>
  	<li>Deborah Rutter and Peter Ellefson</li>
- 	<li>Patricia Bennett Sagon</li>
  	<li>Ms. Jean Schepers</li>
  	<li>Arlene Schnitzer</li>
- 	<li>Alexandra Seros and Walter F. Ulloa</li>
  	<li>The Mark Siegel Family Foundation</li>
  	<li>The Honorable and Mrs. Leonard L. Silverstein</li>
- 	<li>Martha and D. David Slosburg</li>
+ 	<li>Martha and D. David Slosburg In Memory of Ali Slosburg</li>
  	<li>Mr. and Mrs. Albert H. Small</li>
  	<li>Tina and Albert H. Small, Jr.</li>
  	<li>Bunnie Smith</li>
@@ -292,15 +307,12 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
  	<li>Jean Kennedy Smith</li>
  	<li>Timothy and Martha Spadafore</li>
  	<li>Earl W. and Amanda Stafford</li>
- 	<li>Alexandra C. Stanton</li>
  	<li>The Stella Boyle Smith Trust, Catherine H. and Michael R. Mayton, Trustees</li>
  	<li>Paul and Ann Stern</li>
  	<li>Sy and Laurie Sternberg</li>
- 	<li>The Stichman Family Foundation</li>
  	<li>Drs. Linda Klieger Stillman and Robert J. Stillman</li>
  	<li>Mr. Stuart Stock and The Honorable Ann Stock</li>
  	<li>Julie and Peter Stott</li>
- 	<li>Tanaka Memorial Foundation</li>
  	<li>Jerry Taylor and Nancy Bryant</li>
  	<li>Linda and Steuart Thomsen</li>
  	<li>Anne Marie T. Tighe</li>
@@ -308,18 +320,17 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
  	<li>The Trees Family</li>
  	<li>Trehan Foundation, Inc.</li>
  	<li>The Trump Group, Jules Trump and Eddie Trump</li>
- 	<li>Reginald Van Lee</li>
  	<li>Sherry and Eddie Wachs</li>
- 	<li>Mimi and Frank Walsh</li>
  	<li>Gil Walsh</li>
  	<li>Virginia Warner</li>
  	<li>Wells Fargo</li>
- 	<li>Anthony and Beatrice W. Welters</li>
  	<li>Drs. Robert and Gail Wilensky</li>
+ 	<li>Sandy and Jon Willen</li>
  	<li>Samantha and John Williams</li>
  	<li>Rita Wilson and Tom Hanks</li>
  	<li>Mr. John C. Wohlstetter</li>
  	<li>Wolfensohn Family Foundation</li>
+ 	<li>Mr. Howard Woolley and Ms. Lauren Slaughter</li>
 </ul>
 </div>
 </div>
