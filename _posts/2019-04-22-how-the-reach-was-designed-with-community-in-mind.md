@@ -6,7 +6,8 @@ post_title: >
 author: Michael Cardiel
 post_excerpt: ""
 layout: post
-permalink: 'https://www.washingtonpost.com/brand-studio/wp/2019/04/22/feature/how-the-reach-was-designed-with-community-in-mind/#new_tab'
+permalink: >
+  https://reach.kennedy-center.org/how-the-reach-was-designed-with-community-in-mind/
 published: true
 post_date: 2019-04-22 21:13:42
 ---
