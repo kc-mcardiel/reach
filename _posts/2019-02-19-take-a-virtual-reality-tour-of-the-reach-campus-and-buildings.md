@@ -53,6 +53,10 @@ post_date: 2019-02-19 09:00:49
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+<p>Also be aware that, on iPhone X and XR, the latest iOS software version (12.2) now requires that you opt in for allowing gyroscope access. On your iPhone, go to Settings > Safari > Motion &amp; Orientation Access, and toggle to the on position. Then reload this page.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>You can navigate back to the aerial menu from any location
 by looking down to positioning the crosshairs on the home button on the ground.</p>
 <!-- /wp:paragraph -->
