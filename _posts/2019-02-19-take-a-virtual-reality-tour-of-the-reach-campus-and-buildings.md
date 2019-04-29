@@ -33,7 +33,15 @@ post_date: 2019-02-19 09:00:49
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The experience starts with a bird’s eye view of the new campus. Take a look around and then click on a target to travel to that location. Enjoy the 360 views with your mouse in each new space.</p>
+<p>The experience starts with a bird’s eye view of the new campus. Take a look around and then click on a target to travel to that location. Enjoy the 360 views with your mouse in each new space. You can mute the sound by clicking the audio icon in the bottom center of the screen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Instructions for mobile: </strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>After you launch the REACH VR Experience page, you'll see a series of icons in the bottom middle section. Click on the gyroscope icon to the far right to enable the 360 movement. Click on the targets to navigate to different spaces.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -53,7 +61,7 @@ post_date: 2019-02-19 09:00:49
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Also be aware that, on iPhone X and XR, the latest iOS software version (12.2) now requires that you opt in for allowing gyroscope access. On your iPhone, go to Settings > Safari > Motion &amp; Orientation Access, and toggle to the on position. Then reload this page.</p>
+<p>Also be aware that, on iPhone X and XR, the latest iOS software version (12.2) now requires that you opt in for allowing gyroscope access. On your iPhone, go to Settings &gt; Safari &gt; Motion &amp; Orientation Access, and toggle to the on position. Then reload this page.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
