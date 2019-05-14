@@ -83,7 +83,7 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
  	<li>Mr. Frank F. Islam and Ms. Debbie Driesman</li>
  	<li>Martha and Carl Lindner III and The Psalms Foundation</li>
  	<li>Frances and Craig Lindner</li>
- 	<li>J. Willard and Alice S. Marriot Foundation</li>
+ 	<li>The J. Willard and Alice S. Marriott Foundation</li>
  	<li>Pohlad Family Fund</li>
  	<li>Dr. Deborah Rose and Dr. Jan A. J. Stolwijk</li>
  	<li>Martha and David Slosburg In Memory of Ali Slosburg</li>
