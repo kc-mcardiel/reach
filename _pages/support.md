@@ -51,7 +51,7 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
  	<li>Fred Eychaner and Dan Whittaker</li>
  	<li>Sakurako and William Fisher</li>
  	<li>Natalie and Herb Kohler and Kohler Co.</li>
- 	<li>Štĕpánka and Karel Komárek</li>
+ 	<li>Štěpánka and Karel Komárek</li>
  	<li>Suzanne L. Niedland</li>
  	<li>Pritzker Traubert Foundation</li>
  	<li>Iris Smith</li>
@@ -63,8 +63,10 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
 <h4>Advocate</h4>
 <ul>
  	<li>John &amp; Marcia Goldman Foundation</li>
+ 	<li>The Ann and Jack Graves Foundation Honoring the NCPA</li>
  	<li>The Hillside Foundation – Shelley and Allan Holt</li>
  	<li>Robert and Arlene Kogod</li>
+ 	<li>Martha and David Slosburg In Memory of Ali Slosburg</li>
 </ul>
 <h4>Society</h4>
 <ul>
@@ -78,7 +80,6 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
  	<li>Jennifer and David Fischer</li>
  	<li>Norma Lee and Morton Funger and The Funger Foundation</li>
  	<li>General Dynamics</li>
- 	<li>The Ann and Jack Graves Foundation Honoring the National Committee for the Performing Arts</li>
  	<li>GRoW @ Annenberg and Gregory Annenberg Weingarten and Family</li>
  	<li>Mr. Frank F. Islam and Ms. Debbie Driesman</li>
  	<li>Martha and Carl Lindner III and The Psalms Foundation</li>
@@ -86,7 +87,6 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
  	<li>The J. Willard and Alice S. Marriott Foundation</li>
  	<li>Pohlad Family Fund</li>
  	<li>Dr. Deborah Rose and Dr. Jan A. J. Stolwijk</li>
- 	<li>Martha and David Slosburg In Memory of Ali Slosburg</li>
  	<li>Eva and Marc Stern</li>
  	<li>The Embassy of the United Arab Emirates</li>
  	<li>Mr. Anthony and Mrs. Beatrice W. Welters Vincent Wilkinson Foundation</li>
@@ -97,24 +97,29 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
 <h4>Benefactor</h4>
 <ul>
  	<li>Jim and Susan Bakke</li>
- 	<li>HARMAN International Industries, Inc.</li>
+ 	<li>HARMAN</li>
  	<li>Jerry and Terri Kohl</li>
- 	<li>Lane Industries, Inc.</li>
+ 	<li>The Lane Construction Company</li>
+ 	<li>Richard S. and Karen LeFrak Charitable Foundation</li>
  	<li>Jeffrey and Harriet Legum</li>
  	<li>Dr. Gary Mather and Ms. Christina Co Mather</li>
 </ul>
 <h4>Champion</h4>
 <ul>
  	<li>Daris M. Clifton-Alloy and Martin K. Alloy</li>
- 	<li>American Express Foundation</li>
+ 	<li>American Express</li>
  	<li>Mr. and Mrs. Christopher M. and Andrita J. Andreas</li>
  	<li>Amy and Bret Baier</li>
+ 	<li>Mary Randolph Ballinger</li>
  	<li>Diane Endres Ballweg</li>
  	<li>The Honorable Stuart Bernstein and Wilma E. Bernstein</li>
+ 	<li>Sandra N. Bosley</li>
  	<li>Buffy and William Cafritz</li>
  	<li>DC Commission on the Arts and Humanities</li>
+ 	<li>Elizabeth and Richard Dubin Family Foundation</li>
  	<li>Nina and David Fialkow</li>
  	<li>Fluor Corporation</li>
+ 	<li>David C. Frederick and Sophia Lynn</li>
  	<li>The Honorable Joseph and Alma Gildenhorn</li>
  	<li>John R. and Donna S. Hall</li>
  	<li>Jim and Heather Johnson</li>
@@ -137,6 +142,7 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
  	<li>The Stella Boyle Smith Trust, Catherine H. and Michael R. Mayton, Trustees</li>
  	<li>Lorenzo Rick Tedesco</li>
  	<li>The Trees Family</li>
+ 	<li>Yvonne and Brock Vinton</li>
  	<li>Melanie Walser and Bobby Ourisman</li>
  	<li>Nancy and Harold Zirkin</li>
 </ul>
