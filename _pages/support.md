@@ -47,13 +47,14 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
 <h4>Cabinet</h4>
 <ul>
  	<li>David Bohnett Foundation</li>
- 	<li>William E. and Joanne Conway</li>
- 	<li>Fred Eychaner and Dan Whittaker</li>
+ 	<li>William E. Conway, Jr. and Joanne Barkett Conway</li>
+ 	<li>Fred Eychaner</li>
  	<li>Sakurako and William Fisher</li>
  	<li>Natalie and Herb Kohler and Kohler Co.</li>
  	<li>Štěpánka and Karel Komárek</li>
  	<li>Suzanne L. Niedland</li>
  	<li>Pritzker Traubert Foundation</li>
+ 	<li>Dr. Deborah Rose and Dr. Jan A. J. Stolwijk</li>
  	<li>Iris Smith</li>
  	<li>Robert H. Smith Family Foundation</li>
 </ul>
@@ -62,10 +63,12 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
 <div class="col left">
 <h4>Advocate</h4>
 <ul>
- 	<li>John &amp; Marcia Goldman Foundation</li>
+ 	<li>A. James &amp; Alice B. Clark Foundation</li>
+ 	<li>Marcia and John Goldman</li>
  	<li>The Ann and Jack Graves Foundation Honoring the NCPA</li>
  	<li>The Hillside Foundation – Shelley and Allan Holt</li>
  	<li>Robert and Arlene Kogod</li>
+ 	<li>Martha and Carl H. Lindner III</li>
  	<li>Martha and David Slosburg In Memory of Ali Slosburg</li>
 </ul>
 <h4>Society</h4>
@@ -80,16 +83,15 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
  	<li>Jennifer and David Fischer</li>
  	<li>Norma Lee and Morton Funger and The Funger Foundation</li>
  	<li>General Dynamics</li>
- 	<li>GRoW @ Annenberg and Gregory Annenberg Weingarten and Family</li>
+ 	<li>GRoW @ Annenberg, Gregory Annenberg Weingarten and Family</li>
  	<li>Mr. Frank F. Islam and Ms. Debbie Driesman</li>
- 	<li>Martha and Carl Lindner III and The Psalms Foundation</li>
  	<li>Frances and Craig Lindner</li>
  	<li>The J. Willard and Alice S. Marriott Foundation</li>
- 	<li>Pohlad Family Fund</li>
- 	<li>Dr. Deborah Rose and Dr. Jan A. J. Stolwijk</li>
+ 	<li>Robert and Rebecca Pohlad</li>
  	<li>Eva and Marc Stern</li>
  	<li>The Embassy of the United Arab Emirates</li>
- 	<li>Mr. Anthony and Mrs. Beatrice W. Welters Vincent Wilkinson Foundation</li>
+ 	<li>Dennis and Phyllis Washington Foundation</li>
+ 	<li>Mr. Anthony and Mrs. Beatrice W. Welters, Vincent Wilkinson Foundation</li>
  	<li>Elaine Wynn</li>
 </ul>
 </div>
@@ -99,10 +101,10 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
  	<li>Jim and Susan Bakke</li>
  	<li>HARMAN</li>
  	<li>Jerry and Terri Kohl</li>
- 	<li>The Lane Construction Company</li>
- 	<li>Richard S. and Karen LeFrak Charitable Foundation</li>
+ 	<li>The Lane Construction Corporation</li>
+ 	<li>The Richard S. and Karen LeFrak Charitable Foundation</li>
  	<li>Jeffrey and Harriet Legum</li>
- 	<li>Dr. Gary Mather and Ms. Christina Co Mather</li>
+ 	<li>Dr. Gary D. Mather and Ms. Christina Co Mather</li>
 </ul>
 <h4>Champion</h4>
 <ul>
@@ -114,32 +116,37 @@ The Kennedy Center proudly recognizes the following Building the Future leadersh
  	<li>Diane Endres Ballweg</li>
  	<li>The Honorable Stuart Bernstein and Wilma E. Bernstein</li>
  	<li>Sandra N. Bosley</li>
- 	<li>Buffy and William Cafritz</li>
+ 	<li>Buffy and William Cafritz Family Foundation</li>
  	<li>DC Commission on the Arts and Humanities</li>
- 	<li>Elizabeth and Richard Dubin Family Foundation</li>
+ 	<li>Richard and Elizabeth Dubin Family Foundation</li>
  	<li>Nina and David Fialkow</li>
  	<li>Fluor Corporation</li>
  	<li>David C. Frederick and Sophia Lynn</li>
  	<li>The Honorable Joseph and Alma Gildenhorn</li>
  	<li>John R. and Donna S. Hall</li>
  	<li>Jim and Heather Johnson</li>
- 	<li>Y. Michele Kang</li>
+ 	<li>Yongmee Michele Kang</li>
  	<li>Kelly Fisher Katz &amp; Martin Katz</li>
  	<li>The Marie-Josée and Henry R. Kravis Foundation</li>
  	<li>Mr. and Mrs. J. Michael Lawrie</li>
  	<li>Waltraud "Wally" Legat</li>
  	<li>Victoria McNeil Le Vine</li>
  	<li>Michael Lombardo and Sonny Ward</li>
+ 	<li>Rose McElrath-Slade</li>
  	<li>The Honorable Bonnie McElveen-Hunter</li>
  	<li>Carol Melton and Joseph Hassett</li>
  	<li>Deanne A. Miller</li>
  	<li>The Honorable Mary V. Mochary</li>
  	<li>Suzy and Bob Pence</li>
  	<li>The Rhimes Family Foundation</li>
+ 	<li>Laura M. Ricketts</li>
  	<li>Drs. Helena Wachslicht Rodbard and David Rodbard</li>
+ 	<li>Jean E. Rolles</li>
  	<li>Mr. and Mrs. Robert M. Rosenthal</li>
  	<li>Jeanne and Otto† Ruesch</li>
+ 	<li>Alexandra Seros and Walter F. Ulloa</li>
  	<li>The Stella Boyle Smith Trust, Catherine H. and Michael R. Mayton, Trustees</li>
+ 	<li>Synergi LLC</li>
  	<li>Lorenzo Rick Tedesco</li>
  	<li>The Trees Family</li>
  	<li>Yvonne and Brock Vinton</li>
