@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2019-05-29 19:07:03
 ---
-<img class="alignnone wp-image-724 size-full" src="https://reach.kennedy-center.org/wp-content/uploads/2019/07/REACHOpening_header_840.jpg" alt="Kennedy Center REACH Opening Festival" width="840" height="341" />
+<a href="https://cms.kennedy-center.org/festivals/reach/"><img class="alignnone wp-image-724 size-full" src="https://reach.kennedy-center.org/wp-content/uploads/2019/07/REACHOpening_header_840.jpg" alt="Kennedy Center REACH Opening Festival" width="840" height="341" /></a>
 
 This fall, artists and audiences from the Washington, D.C. area, the U.S., and around the globe come together at the nation’s cultural capital to dance, sing, create, collaborate, listen, learn, talk, share, and celebrate the opening of the REACH with a free 16-day festival on September 7–22.
 
