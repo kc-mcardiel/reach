@@ -42,7 +42,7 @@ post_date: 2019-07-17 15:00:36
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Standing 425 | Rounds 300 | Theater 260</p>
+<p>Standing 425 | Rounds 300 | Theater 260<br><br> <br>$6,750 – $18,000<br><br> <br>5,000 square feet </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
