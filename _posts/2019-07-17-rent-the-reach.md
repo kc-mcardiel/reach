@@ -29,6 +29,10 @@ post_date: 2019-07-17 15:00:36
 <h2><strong>Level A Spaces (995 Capacity):</strong></h2>
 <!-- /wp:heading -->
 
+<!-- wp:html -->
+<p><br/></p>
+<!-- /wp:html -->
+
 <!-- wp:heading {"level":4} -->
 <h4> </h4>
 <!-- /wp:heading -->
