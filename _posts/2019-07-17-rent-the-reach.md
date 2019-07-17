@@ -73,8 +73,8 @@ post_date: 2019-07-17 15:00:36
 <p><em>Intimate lecture hall with capacity for film screenings, panel discussions, presentations, and small ensembles.&nbsp; Seats have a tablet arm for note-taking, large projector screen, and projector to provide audio visual at every location within the space.&nbsp; With cherry wood ceiling, acoustic crinkle natural grey concrete walls, wooden floors, the space is made to capture the presentation style setting.</em></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":4} -->
-<h4> Room PT109 (Board Room) </h4>
+<!-- wp:heading {"level":3} -->
+<h3> Room PT109 (Board Room) </h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
