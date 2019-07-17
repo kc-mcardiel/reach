@@ -103,8 +103,8 @@ post_date: 2019-07-17 15:00:36
 <h2><strong>Level B Spaces (879 Capacity):</strong></h2>
 <!-- /wp:heading -->
 
-<!-- wp:media-text {"mediaPosition":"right","mediaId":608,"mediaType":"image","isStackedOnMobile":true,"className":"media-card"} -->
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile media-card"><figure class="wp-block-media-text__media"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/03/spaces__0006_studios_jfk.jpg" alt="" class="wp-image-608"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":3} -->
+<!-- wp:media-text {"mediaPosition":"right","mediaId":750,"mediaType":"image","isStackedOnMobile":true,"className":"media-card"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile media-card"><figure class="wp-block-media-text__media"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/07/white-image.png" alt="" class="wp-image-750"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":3} -->
 <h3> <br>Studio J   </h3>
 <!-- /wp:heading -->
 
@@ -125,8 +125,8 @@ post_date: 2019-07-17 15:00:36
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:media-text -->
 
-<!-- wp:media-text {"mediaPosition":"right","mediaId":608,"mediaType":"image","isStackedOnMobile":true,"className":"media-card"} -->
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile media-card"><figure class="wp-block-media-text__media"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/03/spaces__0006_studios_jfk.jpg" alt="" class="wp-image-608"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":3} -->
+<!-- wp:media-text {"mediaPosition":"right","mediaId":750,"mediaType":"image","isStackedOnMobile":true,"className":"media-card"} -->
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile media-card"><figure class="wp-block-media-text__media"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/07/white-image.png" alt="" class="wp-image-750"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":3} -->
 <h3> <br>Studio F </h3>
 <!-- /wp:heading -->
 
