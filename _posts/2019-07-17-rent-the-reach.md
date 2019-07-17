@@ -55,6 +55,8 @@ post_date: 2019-07-17 15:00:36
 
 <!-- wp:media-text {"mediaPosition":"right","mediaId":605,"mediaType":"image","isStackedOnMobile":true,"className":"media-card"} -->
 <div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile media-card">
+<figure></figure>
+<figure></figure>
 <figure class="wp-block-media-text__media"><span style="font-size: 23px; font-weight: 900;">Justice Forum</span></figure>
 <div class="wp-block-media-text__content"><!-- /wp:heading -->
 
@@ -78,6 +80,7 @@ post_date: 2019-07-17 15:00:36
 
 <!-- wp:media-text {"mediaPosition":"right","mediaId":603,"mediaType":"image","isStackedOnMobile":true,"className":"media-card"} -->
 <div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile media-card">
+<figure></figure>
 <figure class="wp-block-media-text__media"><span style="font-size: 23px; font-weight: 900;">Room PT109 (Board Room)</span></figure>
 <div class="wp-block-media-text__content"><!-- /wp:heading -->
 
