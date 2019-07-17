@@ -2,14 +2,19 @@
 ID: 729
 post_title: Rent the REACH
 author: admin
-post_excerpt: ""
+post_excerpt: >
+  Event rentals at the REACH offer a wide
+  range of room capacities,
+  multi-functional spaces, state of the
+  art technology, and a variety of
+  amenities.
 layout: post
 permalink: >
   https://reach.kennedy-center.org/rent-the-reach/
 published: true
 post_date: 2019-07-17 15:00:36
 ---
-<p><strong>&nbsp;</strong>Event rentals at the REACH offer a wide range of room capacities, multi-functional spaces, state of the art technology, and a variety of amenities.</p>
+<p>Event rentals at the REACH offer a wide range of room capacities, multi-functional spaces, state of the art technology, and a variety of amenities.</p>
 <ul>
 <li>WiFi</li>
 <li>Security</li>
