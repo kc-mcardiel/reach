@@ -26,10 +26,6 @@ post_date: 2019-07-17 15:00:36
 </ul>
 
 <!-- wp:heading -->
-<h2><strong>Level A Spaces (995 Capacity):</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:heading -->
 <h2><strong>Level A Spaces (995 Capacity):</strong> </h2>
 <!-- /wp:heading -->
 
