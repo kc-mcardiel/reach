@@ -97,130 +97,86 @@ post_date: 2019-07-17 15:00:36
 <h2> <br><strong>Level B Spaces (879 Capacity):</strong> </h2>
 <!-- /wp:heading -->
 
+<!-- wp:spacer {"height":58} -->
+<div style="height:58px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
 <!-- wp:heading {"level":3} -->
 <h3>Studio J</h3>
 <!-- /wp:heading -->
 
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
+<!-- wp:paragraph -->
 <p>Standing 50 | Rounds 48 | Theater 50 | Classroom 48</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>$675 – $1,700</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>1,227 square feet</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><em>This multi-purpose rehearsal room is complete with ballet barres, permanent mirrors along the wall, and drapery to cover the installed mirror wall.  This can be suitable for a green room, rehearsal space, meeting breakout room, or reception or dinner.  With windows and natural light, shades can be drawn to limit the view into the space.  Studio J is complete with a permanent Marley sprung floor, screen, projector, and audio playback system.</em></p>
-<p><!--EndFragment--><br /><br /></p>
+<!-- /wp:paragraph -->
 
-<p><!-- /wp:media-text --></p>
-<p><!-- wp:media-text {"mediaPosition":"right","mediaId":603,"mediaType":"image","isStackedOnMobile":true,"className":"media-card"} --></p>
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile media-card">
-<figure></figure>
-<figure class="wp-block-media-text__media"></figure>
-<div class="wp-block-media-text__content"><!-- /wp:heading -->
-<p> </p>
-<p> </p>
-<p><!-- /wp:paragraph --></p>
-</div>
-</div>
-<p><!-- /wp:media-text --></p>
-<p><!-- wp:separator --></p>
-<hr class="wp-block-separator" /><!-- /wp:separator -->
-<p> </p>
-<p> </p>
-<p><!-- wp:heading --></p>
-<h2><strong>Level B Spaces (879 Capacity):</strong></h2>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:media-text {"mediaPosition":"right","mediaId":753,"mediaType":"image","isStackedOnMobile":true,"className":"media-card"} --></p>
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile media-card">
-<figure class="wp-block-media-text__media"><img class="wp-image-753" src="https://reach.kennedy-center.org/wp-content/uploads/2019/07/spacer.gif" alt="" /></figure>
-<div class="wp-block-media-text__content"><!-- wp:heading {"level":3} -->
-<p> </p>
-<p> </p>
-<h3>Studio J</h3>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Standing 50 | Rounds 48 | Theater 50 | Classroom 48</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+<!-- wp:paragraph -->
 <p>$675 – $1,700</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>1,227 square feet</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><em>This multi-purpose rehearsal room is complete with ballet barres, permanent mirrors along the wall, and drapery to cover the installed mirror wall.  This can be suitable for a green room, rehearsal space, meeting breakout room, or reception or dinner.  With windows and natural light, shades can be drawn to limit the view into the space.  Studio J is complete with a permanent Marley sprung floor, screen, projector, and audio playback system.</em></p>
-<p><!-- /wp:paragraph --></p>
-</div>
-</div>
-<p><!-- /wp:media-text --></p>
-<p><!-- wp:media-text {"mediaPosition":"right","mediaId":753,"mediaType":"image","isStackedOnMobile":true,"className":"media-card"} --></p>
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile media-card">
-<figure class="wp-block-media-text__media"><img class="wp-image-753" src="https://reach.kennedy-center.org/wp-content/uploads/2019/07/spacer.gif" alt="" /></figure>
-<div class="wp-block-media-text__content"><!-- /wp:heading -->
-<p> </p>
-<p><span style="font-size: 23px; font-weight: 900;">Studio F</span></p>
-<p><!-- wp:paragraph --></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>This multi-purpose rehearsal room is complete with ballet barres, permanent mirrors along the wall, and drapery to cover the installed mirror wall.&nbsp; This can be suitable for a green room, rehearsal space, meeting breakout room, or reception or dinner.&nbsp; With windows and natural light, shades can be drawn to limit the view into the space.&nbsp; Studio J is complete with a permanent Marley sprung floor, screen, projector, and audio playback system.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Studio F</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
 <p>Standing 164 | Rounds 104 | Theater 164 | Classroom 84</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>$1,050 – $2,700</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>2,018 square feet</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><em>Larger than Studio J, the second multi-purpose rehearsal room is complete with ballet barres, permanent mirrors along the wall, and drapery to cover the installed mirror wall.  This can be suitable for a green room, rehearsal space, meeting breakout room, or reception or dinner.  With windows and natural light, shades can be drawn to limit the view into the space.  Studio J is complete with a permanent Marley sprung floor, screen, projector, and audio playback system</em></p>
-<p> </p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><span style="font-size: 23px; font-weight: 900;">Studio K</span></p>
-</div>
-</div>
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile media-card">
-<div class="wp-block-media-text__content"><!-- /wp:heading -->
-<p> </p>
-<p><!-- wp:paragraph --></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Larger than Studio J, the second multi-purpose rehearsal room is complete with ballet barres, permanent mirrors along the wall, and drapery to cover the installed mirror wall.&nbsp; This can be suitable for a green room, rehearsal space, meeting breakout room, or reception or dinner.&nbsp; With windows and natural light, shades can be drawn to limit the view into the space.&nbsp; Studio J is complete with a permanent Marley sprung floor, screen, projector, and audio playback system</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Studio K</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
 <p>Standing 350 | Rounds 250 | Theater 300 | Classroom 144</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>$3,750 – $10,000</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>3,754 square feet</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><em>The largest multi-purpose room with a viewing balcony containing loose seating, to allow for observation.  The space can be used for a variety of events, performances, rehearsals, and conference style theater or break out sessions.  The space can be made dark with the use of curtains located on all four walls, including a permanent lighting, audio, and video system.  The distinctive cerulean blue stained concrete ceiling, acoustic crinkle natural grey concrete walls, and dark stained wooden floor provide a space that can be transformed and used for any occasion.</em></p>
-<p> </p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><span style="font-size: 23px; font-weight: 900;">River Pavilion</span></p>
-</div>
-</div>
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile media-card">
-<div class="wp-block-media-text__content"><!-- /wp:heading -->
-<p> </p>
-<p><!-- wp:paragraph --></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>The largest multi-purpose room with a viewing balcony containing loose seating, to allow for observation.&nbsp; The space can be used for a variety of events, performances, rehearsals, and conference style theater or break out sessions.&nbsp; The space can be made dark with the use of curtains located on all four walls, including a permanent lighting, audio, and video system.&nbsp; The distinctive cerulean blue stained concrete ceiling, acoustic crinkle natural grey concrete walls, and dark stained wooden floor provide a space that can be transformed and used for any occasion.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3> <br>River Pavilion </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
 <p>Standing 268 | Rounds 110 | Theater 148</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>Pricing available upon request.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>2,166 square feet</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><em>With a flexible interior and exterior space, complete with a café, located along the south end of the Kennedy Center’s campus.  This space offers brilliant views of the Potomac River and new pedestrian bridge across Rock Creek Parkway.  A wall of windows facing both east and west offer a bright and warm space season round.  To the West, the view of the Potomac River, and to the East, the view of the south Reflecting Pool and Presidential Grove of Ginkgo trees.</em></p>
-<p><!-- /wp:paragraph --></p>
-</div>
-</div>
-<p><!-- /wp:media-text --></p>
-<p><!-- wp:columns {"columns":1} --></p>
-<div class="wp-block-columns has-1-columns"><!-- wp:column -->
-<div class="wp-block-column"> </div>
-<p><!-- /wp:column --></p>
-</div>
-<p><!-- /wp:columns --></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>With a flexible interior and exterior space, complete with a café, located along the south end of the Kennedy Center’s campus.&nbsp; This space offers brilliant views of the Potomac River and new pedestrian bridge across Rock Creek Parkway.&nbsp; A wall of windows facing both east and west offer a bright and warm space season round.&nbsp; To the West, the view of the Potomac River, and to the East, the view of the south Reflecting Pool and Presidential Grove of Ginkgo trees.</em></p>
+<!-- /wp:paragraph -->
