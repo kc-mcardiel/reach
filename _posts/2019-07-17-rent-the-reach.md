@@ -46,19 +46,11 @@ post_date: 2019-07-17 15:00:36
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>$6,750 – $18,000</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>5,000 square feet</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><em>A stunningly beautiful, vaulted-ceiling space with expansive views of the river.&nbsp; A great location for special events, receptions, or seated dinners, this space can serve as a public atrium and a great place to view the Potomac during the day.&nbsp; Acoustic plaster ceilings and walls, end grain wooden floor, and multiple glass skylights, offer an experience for lasting memories at the REACH.</em></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":4} -->
-<h4>Justice Forum</h4>
+<!-- wp:heading {"level":3} -->
+<h3>Justice Forum</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
