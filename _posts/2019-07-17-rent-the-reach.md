@@ -14,10 +14,6 @@ permalink: >
 published: true
 post_date: 2019-07-17 15:00:36
 ---
-<!-- wp:image {"id":841} -->
-<figure class="wp-block-image"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/09/2019_07_27_reach_wedding_elmanstudio-1351_web.jpg" alt="" class="wp-image-841"/></figure>
-<!-- /wp:image -->
-
 <p><strong>Event rentals at the REACH offer a wide range of room capacities, multi-functional spaces, state of the art technology, and a variety of amenities.</strong></p>
 <ul>
 <li>WiFi</li>
@@ -28,6 +24,10 @@ post_date: 2019-07-17 15:00:36
 <li>Full Service Catering by Occasions Caterers</li>
 <li>Access to the Nation’s Performing Arts Center</li>
 </ul>
+
+<!-- wp:image {"id":841} -->
+<figure class="wp-block-image"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/09/2019_07_27_reach_wedding_elmanstudio-1351_web.jpg" alt="" class="wp-image-841"/></figure>
+<!-- /wp:image -->
 
 <!-- wp:heading -->
 <h2><strong>Level A Spaces (995 Capacity)</strong><br><br></h2>
