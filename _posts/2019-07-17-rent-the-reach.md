@@ -70,7 +70,7 @@ post_date: 2019-07-17 15:00:36
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
-<h3> Room PT109 (Board Room) </h3>
+<h3> Room PT-109 (Board Room) </h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -184,3 +184,7 @@ post_date: 2019-07-17 15:00:36
 <!-- wp:image {"id":826} -->
 <figure class="wp-block-image"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/09/rent-footer.jpg" alt="" class="wp-image-826"/></figure>
 <!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><em> Photos by Manda Weaver and Elman Studio </em></p>
+<!-- /wp:paragraph -->
