@@ -97,6 +97,10 @@ post_date: 2019-07-17 15:00:36
 <h2> <br><strong>Level B Spaces (879 Capacity):</strong> </h2>
 <!-- /wp:heading -->
 
+<!-- wp:image {"id":825,"align":"right"} -->
+<div class="wp-block-image"><figure class="alignright"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/09/KennedyCenterREACH-PreviewEventGallery-MandaWeaver-255_web.jpg" alt="Kennedy Center REACH" class="wp-image-825"/></figure></div>
+<!-- /wp:image -->
+
 <!-- wp:spacer {"height":58} -->
 <div style="height:58px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
