@@ -181,8 +181,8 @@ post_date: 2019-07-17 15:00:36
 <p><em>With a flexible interior and exterior space, complete with a café, located along the south end of the Kennedy Center’s campus.&nbsp; This space offers brilliant views of the Potomac River and new pedestrian bridge across Rock Creek Parkway.&nbsp; A wall of windows facing both east and west offer a bright and warm space season round.&nbsp; To the West, the view of the Potomac River, and to the East, the view of the south Reflecting Pool and Presidential Grove of Ginkgo trees.</em></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":833} -->
-<figure class="wp-block-image"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/07/2019_09_05-reach-elmanstudio-9751_web.jpg" alt="The REACH's River and Skylight Pavilion" class="wp-image-833"/><figcaption>Photos by Manda Weaver and Elman Studio ﻿</figcaption></figure>
+<!-- wp:image {"id":833,"align":"center"} -->
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/07/2019_09_05-reach-elmanstudio-9751_web.jpg" alt="The REACH's River and Skylight Pavilion" class="wp-image-833"/><figcaption>Photos by Manda Weaver and Elman Studio ﻿</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
