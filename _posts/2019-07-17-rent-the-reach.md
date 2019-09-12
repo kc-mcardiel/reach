@@ -140,5 +140,13 @@ Pricing available upon request.<br>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":833,"align":"center"} -->
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/07/2019_09_05-reach-elmanstudio-9751_web.jpg" alt="The REACH's River and Skylight Pavilion" class="wp-image-833"/><figcaption>Photos by Manda Weaver and Elman Studio ﻿</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/07/2019_09_05-reach-elmanstudio-9751_web.jpg" alt="The REACH's River and Skylight Pavilion" class="wp-image-833"/></figure></div>
 <!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p> </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Photos by Manda Weaver and Elman Studio.</p>
+<!-- /wp:paragraph -->
