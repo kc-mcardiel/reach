@@ -14,6 +14,10 @@ permalink: >
 published: true
 post_date: 2019-07-17 15:00:36
 ---
+<!-- wp:image {"id":824} -->
+<figure class="wp-block-image"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/09/rent-banner.jpg" alt="" class="wp-image-824"/></figure>
+<!-- /wp:image -->
+
 <p>Event rentals at the REACH offer a wide range of room capacities, multi-functional spaces, state of the art technology, and a variety of amenities.</p>
 <ul>
 <li>WiFi</li>
@@ -176,3 +180,7 @@ post_date: 2019-07-17 15:00:36
 <!-- wp:paragraph -->
 <p><em>With a flexible interior and exterior space, complete with a café, located along the south end of the Kennedy Center’s campus.&nbsp; This space offers brilliant views of the Potomac River and new pedestrian bridge across Rock Creek Parkway.&nbsp; A wall of windows facing both east and west offer a bright and warm space season round.&nbsp; To the West, the view of the Potomac River, and to the East, the view of the south Reflecting Pool and Presidential Grove of Ginkgo trees.</em></p>
 <!-- /wp:paragraph -->
+
+<!-- wp:image {"id":826} -->
+<figure class="wp-block-image"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/09/rent-footer.jpg" alt="" class="wp-image-826"/></figure>
+<!-- /wp:image -->
