@@ -25,8 +25,8 @@ post_date: 2019-07-17 15:00:36
 <li>Access to the Nation’s Performing Arts Center</li>
 </ul>
 
-<!-- wp:image {"id":841} -->
-<figure class="wp-block-image"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/09/2019_07_27_reach_wedding_elmanstudio-1351_web.jpg" alt="" class="wp-image-841"/></figure>
+<!-- wp:image {"id":841,"align":"center"} -->
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/09/2019_07_27_reach_wedding_elmanstudio-1351_web.jpg" alt="" class="wp-image-841"/></figure><br><br></div>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -72,6 +72,10 @@ $600 – $1,600<br>
 <!-- wp:paragraph -->
 <p>A great space for meetings, small dinners, workshops, and breakouts for a conference day.  The view boasts floor to ceiling windows overlooking a reflecting pool outside to the East.  Frosted glass is along the entry wall into the space, and can be easily accessible from our main entrance through the Welcome Pavilion.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/09/KennedyCenterREACH-PreviewEventGallery-MandaWeaver-255_web.jpg" alt="Kennedy Center REACH" class="wp-image-825"></figure><br><br></div>
+<!-- /wp:html -->
 
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
