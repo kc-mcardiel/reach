@@ -30,12 +30,8 @@ post_date: 2019-07-17 15:00:36
 </ul>
 
 <!-- wp:heading -->
-<h2><strong>Level A Spaces (995 Capacity)</strong></h2>
+<h2><strong>Level A Spaces (995 Capacity)</strong><br><br></h2>
 <!-- /wp:heading -->
-
-<!-- wp:spacer {"height":51} -->
-<div style="height:51px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
 
 <!-- wp:heading {"level":3} -->
 <h3>Skylight Pavilion</h3>
@@ -54,15 +50,9 @@ post_date: 2019-07-17 15:00:36
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>144 fixed Theater Seats</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>$1,050 – $2,700</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>2,033 square feet</p>
+<p>144 fixed Theater Seats<br>
+$1,050 – $2,700<br>
+2,033 square feet</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -74,15 +64,9 @@ post_date: 2019-07-17 15:00:36
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Standing 85 | Rounds 50 | Theater 85 | Classroom 48</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>$600 – $1,600</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>1,120 square feet</p>
+<p>Standing 85 | Rounds 50 | Theater 85 | Classroom 48<br>
+$600 – $1,600<br>
+1,120 square feet</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -94,27 +78,17 @@ post_date: 2019-07-17 15:00:36
 <!-- /wp:separator -->
 
 <!-- wp:heading -->
-<h2> <br><strong>Level B Spaces (879 Capacity):</strong> </h2>
+<h2> <br><strong>Level B Spaces (879 Capacity)</strong><br><br> </h2>
 <!-- /wp:heading -->
-
-<!-- wp:spacer {"height":58} -->
-<div style="height:58px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
 
 <!-- wp:heading {"level":3} -->
 <h3>Studio J</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Standing 50 | Rounds 48 | Theater 50 | Classroom 48</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>$675 – $1,700</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>1,227 square feet</p>
+<p>Standing 50 | Rounds 48 | Theater 50 | Classroom 48<br>
+$675 – $1,700<br>
+1,227 square feet</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -126,11 +100,9 @@ post_date: 2019-07-17 15:00:36
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Standing 164 | Rounds 104 | Theater 164 | Classroom 84</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>$1,050 – $2,700</p>
+<p>Standing 164 | Rounds 104 | Theater 164 | Classroom 84<br>
+$1,050 – $2,700<br>
+2,018 square feet</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
