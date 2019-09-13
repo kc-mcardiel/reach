@@ -25,8 +25,8 @@ post_date: 2019-07-17 15:00:36
 <li>Access to the Nation’s Performing Arts Center</li>
 </ul>
 
-<!-- wp:image {"id":841,"align":"center"} -->
-<div class="wp-block-image"><figure class="aligncenter"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/09/2019_07_27_reach_wedding_elmanstudio-1351_web.jpg" alt="" class="wp-image-841"/></figure><br><br></div>
+<!-- wp:image {"id":841} -->
+<figure class="wp-block-image"><img src="https://reach.kennedy-center.org/wp-content/uploads/2019/09/2019_07_27_reach_wedding_elmanstudio-1351_web.jpg" alt="" class="wp-image-841"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -84,6 +84,44 @@ $600 – $1,600<br>
 <!-- wp:heading -->
 <h2> <br><strong>Level B Spaces (879 Capacity)</strong><br><br> </h2>
 <!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns has-2-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 id="mce_40">Studio J</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p> Standing 50 | Rounds 48 | Theater 50 | Classroom 48<br> $675 – $1,700<br> 1,227 square feet </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>
+
+This multi-purpose rehearsal room is complete with ballet barres, permanent mirrors along the wall, and drapery to cover the installed mirror wall.&nbsp; This can be suitable for a green room, rehearsal space, meeting breakout room, or reception or dinner.&nbsp; With windows and natural light, shades can be drawn to limit the view into the space.&nbsp; Studio J is complete with a permanent Marley sprung floor, screen, projector, and audio playback system.
+
+</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 id="mce_46">Studio F </h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p> Standing 164 | Rounds 104 | Theater 164 | Classroom 84<br> $1,050 – $2,700<br> 2,018 square feet </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>
+
+Larger than Studio J, the second multi-purpose rehearsal room is complete with ballet barres, permanent mirrors along the wall, and drapery to cover the installed mirror wall.&nbsp; This can be suitable for a green room, rehearsal space, meeting breakout room, or reception or dinner.&nbsp; With windows and natural light, shades can be drawn to limit the view into the space.&nbsp; Studio J is complete with a permanent Marley sprung floor, screen, projector, and audio playback system
+
+</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
 
 <!-- wp:heading {"level":3} -->
 <h3>Studio J</h3>
