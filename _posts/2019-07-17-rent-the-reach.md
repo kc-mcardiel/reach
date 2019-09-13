@@ -42,7 +42,7 @@ post_date: 2019-07-17 15:00:36
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>A stunningly beautiful, vaulted-ceiling space with expansive views of the river.  A great location for special events, receptions, or seated dinners, this space can serve as a public atrium and a great place to view the Potomac during the day.  Acoustic plaster ceilings and walls, end grain wooden floor, and multiple glass skylights, offer an experience for lasting memories at the REACH.</p>
+<p>A stunningly beautiful, vaulted-ceiling space with expansive views of the river.&nbsp; A great location for special events, receptions, or seated dinners, this space can serve as a public atrium and a great place to view the Potomac during the day.&nbsp; Acoustic plaster ceilings and walls, end grain wooden floor, and multiple glass skylights, offer an experience for lasting memories at the REACH.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -56,7 +56,7 @@ $1,050 – $2,700<br>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Intimate lecture hall with capacity for film screenings, panel discussions, presentations, and small ensembles.  Seats have a tablet arm for note-taking, large projector screen, and projector to provide audio visual at every location within the space.  With cherry wood ceiling, acoustic crinkle natural grey concrete walls, wooden floors, the space is made to capture the presentation style setting.</p>
+<p>Intimate lecture hall with capacity for film screenings, panel discussions, presentations, and small ensembles.&nbsp; Seats have a tablet arm for note-taking, large projector screen, and projector to provide audio visual at every location within the space.&nbsp; With cherry wood ceiling, acoustic crinkle natural grey concrete walls, wooden floors, the space is made to capture the presentation style setting.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -70,7 +70,7 @@ $600 – $1,600<br>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>A great space for meetings, small dinners, workshops, and breakouts for a conference day.  The view boasts floor to ceiling windows overlooking a reflecting pool outside to the East.  Frosted glass is along the entry wall into the space, and can be easily accessible from our main entrance through the Welcome Pavilion.</p>
+<p>A great space for meetings, small dinners, workshops, and breakouts for a conference day.&nbsp; The view boasts floor to ceiling windows overlooking a reflecting pool outside to the East.&nbsp; Frosted glass is along the entry wall into the space, and can be easily accessible from our main entrance through the Welcome Pavilion.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -96,7 +96,7 @@ $675 – $1,700<br>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>This multi-purpose rehearsal room is complete with ballet barres, permanent mirrors along the wall, and drapery to cover the installed mirror wall.  This can be suitable for a green room, rehearsal space, meeting breakout room, or reception or dinner.  With windows and natural light, shades can be drawn to limit the view into the space.  Studio J is complete with a permanent Marley sprung floor, screen, projector, and audio playback system.</p>
+<p>This multi-purpose rehearsal room is complete with ballet barres, permanent mirrors along the wall, and drapery to cover the installed mirror wall.&nbsp; This can be suitable for a green room, rehearsal space, meeting breakout room, or reception or dinner.&nbsp; With windows and natural light, shades can be drawn to limit the view into the space.&nbsp; Studio J is complete with a permanent Marley sprung floor, screen, projector, and audio playback system.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -110,7 +110,7 @@ $1,050 – $2,700<br>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Larger than Studio J, the second multi-purpose rehearsal room is complete with ballet barres, permanent mirrors along the wall, and drapery to cover the installed mirror wall.  This can be suitable for a green room, rehearsal space, meeting breakout room, or reception or dinner.  With windows and natural light, shades can be drawn to limit the view into the space.  Studio J is complete with a permanent Marley sprung floor, screen, projector, and audio playback system</p>
+<p>Larger than Studio J, the second multi-purpose rehearsal room is complete with ballet barres, permanent mirrors along the wall, and drapery to cover the installed mirror wall.&nbsp; This can be suitable for a green room, rehearsal space, meeting breakout room, or reception or dinner.&nbsp; With windows and natural light, shades can be drawn to limit the view into the space.&nbsp; Studio J is complete with a permanent Marley sprung floor, screen, projector, and audio playback system</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -122,7 +122,7 @@ $1,050 – $2,700<br>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The largest multi-purpose room with a viewing balcony containing loose seating, to allow for observation.  The space can be used for a variety of events, performances, rehearsals, and conference style theater or break out sessions.  The space can be made dark with the use of curtains located on all four walls, including a permanent lighting, audio, and video system.  The distinctive cerulean blue stained concrete ceiling, acoustic crinkle natural grey concrete walls, and dark stained wooden floor provide a space that can be transformed and used for any occasion.</p>
+<p>The largest multi-purpose room with a viewing balcony containing loose seating, to allow for observation.&nbsp; The space can be used for a variety of events, performances, rehearsals, and conference style theater or break out sessions.&nbsp; The space can be made dark with the use of curtains located on all four walls, including a permanent lighting, audio, and video system.&nbsp; The distinctive cerulean blue stained concrete ceiling, acoustic crinkle natural grey concrete walls, and dark stained wooden floor provide a space that can be transformed and used for any occasion.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -136,7 +136,7 @@ Pricing available upon request.<br>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>With a flexible interior and exterior space, complete with a café, located along the south end of the Kennedy Center’s campus.  This space offers brilliant views of the Potomac River and new pedestrian bridge across Rock Creek Parkway.  A wall of windows facing both east and west offer a bright and warm space season round.  To the West, the view of the Potomac River, and to the East, the view of the south Reflecting Pool and Presidential Grove of Ginkgo trees.</p>
+<p>With a flexible interior and exterior space, complete with a café, located along the south end of the Kennedy Center’s campus.&nbsp; This space offers brilliant views of the Potomac River and new pedestrian bridge across Rock Creek Parkway.&nbsp; A wall of windows facing both east and west offer a bright and warm space season round.&nbsp; To the West, the view of the Potomac River, and to the East, the view of the south Reflecting Pool and Presidential Grove of Ginkgo trees.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":833,"align":"center"} -->
